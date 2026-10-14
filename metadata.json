@@ -1,0 +1,7 @@
+{
+  "name": "Milora Gold & Diamonds — Luxury Jewellery Store",
+  "description": "Exquisite handcrafted gold and diamond jewellery, bridal suites, and everyday luxury from Milora Gold & Diamonds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
